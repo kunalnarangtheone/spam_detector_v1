@@ -1,2 +1,2 @@
-# spam_detector_v1
+# Spam detector
 Python Webapp for spam detection using logistic regression model
